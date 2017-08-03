@@ -1,0 +1,782 @@
+####1:a:Pont de Neuilly, ChÉteau de Vincennes
+1:a:Grande Arche de la Defense:77:465:5.30:0.39
+1:a:Esplanade de la Defense:91:461:5.31:0.41
+1:a:Pont de Neuilly:104:457:5.32:0.42
+1:a:Les Sablons:118:453:5.34:0.44
+1:a:Porte Maillot:132:448:5.30:0.45
+1:a:Argentine:149:442:5.31:0.47
+1:a:Charles de Gaulle, Etoile:170:436:5.32:0.48
+1:a:George V:192:428:5.33:0.49
+1:a:Franklin D. Roosevelt:214:421:5.35:0.51
+1:a:Champs Elysees, Clemenceau:237:414:5.36:0.52
+1:a:Concorde:257:407:5.38:0.54
+1:a:Tuileries:278:400:5.39:0.55
+1:a:Palais Royal, Musee du Louvre:292:395:5.40:0.56
+1:a:Louvre, Rivoli:305:392:5.41:0.57
+1:a:Chatelet:324:386:5.43:0.59
+1:a:Hotel de Ville:356:375:5.44:1.00
+1:a:Saint-Paul, Le Marais:380:367:5.45:1.01
+1:a:Bastille:403:360:5.47:1.03
+1:a:Gare de Lyon:428:331:5.49:1.05
+1:a:Reuilly Diderot:442:339:5.51:1.07
+1:a:Nation:464:351:5.53:1.09
+1:a:Porte de Vincennes:496:341:5.54:1.10
+1:a:Saint-Mande, Tourelle:511:336:5.56:1.12
+1:a:Berault:532:329:5.57:1.13
+1:a:Chateau de Vincennes:547:324:5.59:1.15
+####1:b:ChÉteau de Vincennes, Pont de Neuilly
+1:b:Chateau de Vincennes:547:324:5.30:0.39
+1:b:Berault:532:329:5.31:0.40
+1:b:Saint-Mande, Tourelle:511:336:5.32:0.42
+1:b:Porte de Vincennes:496:341:5.34:0.43
+1:b:Nation:464:351:5.35:0.45
+1:b:Reuilly Diderot:442:339:5.37:0.47
+1:b:Gare de Lyon:428:331:5.35:0.48
+1:b:Bastille:403:360:5.36:0.50
+1:b:Saint-Paul, Le Marais:380:367:5.38:0.52
+1:b:Hotel de Ville:356:375:5.40:0.54
+1:b:Chatelet:324:386:5.41:0.55
+1:b:Louvre, Rivoli:305:392:5.42:0.56
+1:b:Palais Royal, Musee du Louvre:292:395:5.43:0.57
+1:b:Tuileries:278:400:5.45:0.58
+1:b:Concorde:257:407:5.46:1.00
+1:b:Champs Elysees, Clemenceau:237:414:5.47:1.01
+1:b:Franklin D. Roosevelt:214:421:5.49:1.03
+1:b:George V:192:428:5.50:1.04
+1:b:Charles de Gaulle, Etoile:170:436:5.51:1.05
+1:b:Argentine:149:442:5.53:1.07
+1:b:Porte Maillot:132:448:5.54:1.08
+1:b:Les Sablons:118:453:5.56:1.10
+1:b:Pont de Neuilly:104:457:5.57:1.11
+1:b:Esplanade de la Defense:91:461:5.59:1.13
+1:b:Grande Arche de la Defense:77:465:6.01:1.15
+####2:a:Porte Dauphine, êtoile, Nation
+2:a:Porte Dauphine:134:422:5.30:0.42
+2:a:Victor Hugo:148:418:5.31:0.43
+2:a:Charles de Gaulle, Etoile:170:437:5.33:0.45
+2:a:Ternes:188:451:5.34:0.46
+2:a:Courcelles:202:462:5.35:0.47
+2:a:Monceau:216:474:5.36:0.48
+2:a:Villiers:232:486:5.37:0.50
+2:a:Rome:248:499:5.39:0.51
+2:a:Place de Clichy:259:508:5.40:0.52
+2:a:Blanche:278:521:5.41:0.54
+2:a:Pigalle:303:521:5.42:0.55
+2:a:Anvers:324:521:5.44:0.56
+2:a:Barbes Rochechouart:350:521:5.45:0.57
+2:a:La Chapelle:372:521:5.47:0.59
+2:a:Stalingrad:408:516:5.48:1.00
+2:a:Jaures:415:508:5.49:1.02
+2:a:Colonel Fabien:416:472:5.51:1.03
+2:a:Belleville:428:456:5.52:1.04
+2:a:Couronnes:439:442:5.53:1.06
+2:a:Menilmontant:448:431:5.55:1.07
+2:a:Pere Lachaise:460:416:5.56:1.08
+2:a:Philippe-Auguste:471:403:5.58:1.10
+2:a:Alexandre Dumas:472:386:5.59:1.11
+2:a:Avron:472:372:6.00:1.12
+2:a:Nation:466:357:6.03:1.15
+####2:b:Nation, êtoile, Porte Dauphine
+2:b:Nation:466:357:5.30:0.40
+2:b:Avron:472:372:5.31:0.42
+2:b:Alexandre Dumas:472:386:5.32:0.43
+2:b:Philippe-Auguste:471:403:5.33:0.44
+2:b:Pere Lachaise:460:416:5.35:0.45
+2:b:Menilmontant:448:431:5.36:0.47
+2:b:Couronnes:439:442:5.37:0.48
+2:b:Belleville:428:456:5.37:0.49
+2:b:Colonel Fabien:416:472:5.38:0.50
+2:b:Jaures:415:508:5.36:0.52
+2:b:Stalingrad:408:516:5.37:0.53
+2:b:La Chapelle:372:521:5.38:0.54
+2:b:Barbes Rochechouart:350:321:5.40:0.56
+2:b:Anvers:324:521:5.41:0.58
+2:b:Pigalle:303:521:5.43:0.59
+2:b:Blanche:278:521:5.44:1.01
+2:b:Place de Clichy:259:508:5.46:1.02
+2:b:Rome:248:499:5.47:1.04
+2:b:Villiers:232:486:5.49:1.05
+2:b:Monceau:216:474:5.50:1.07
+2:b:Courcelles:202:462:5.51:1.08
+2:b:Ternes:188:451:5.53:1.09
+2:b:Charles de Gaulle, Etoile:170:437:5.54:1.11
+2:b:Victor Hugo:148:418:5.56:1.13
+2:b:Porte Dauphine:134:422:5.59:1.15
+####3:a:Pont de Levallois, Becon, GalliÇni
+3:a:Pont de Levallois, Becon:125:521:5.30:0.44
+3:a:Anatole France:138:517:5.31:0.45
+3:a:Louise Michel:154:512:5.32:0.46
+3:a:Porte de Champerret:172:506:5.33:0.48
+3:a:Pereire:187:501:5.34:0.49
+3:a:Wagram:200:497:5.35:0.50
+3:a:Malesherbes:213:493:5.36:0.51
+3:a:Villiers:231:487:5.38:0.53
+3:a:Europe:242:483:5.39:0.54
+3:a:Saint-Lazare:258:477:5.41:0.55
+3:a:Havre Caumartin:268:465:5.42:0.57
+3:a:Opera:284:444:5.43:0.58
+3:a:Quatre Septembre:300:439:5.44:0.59
+3:a:Bourse:314:434:5.46:1.00
+3:a:Sentier:327:430:5.47:1.01
+3:a:Reaumur Sebastopol:351:422:5.48:1.03
+3:a:Arts et Metiers:373:417:5.49:1.04
+3:a:Temple:384:427:5.50:1.05
+3:a:Republique:397:433:5.51:1.06
+3:a:Parmentier:421:427:5.53:1.07
+3:a:Rue Saint-Maur:437:422:5.54:1.08
+3:a:Pere Lachaise:460:416:5.55:1.10
+3:a:Gambetta:484:429:5.57:1.12
+3:a:Porte de Bagnolet:499:430:5.59:1.13
+3:a:Gallieni:527:429:6.01:1.15
+####3:b:GalliÇni, Pont de Levallois, BÇcon
+3:b:Gallieni:527:429:5.30:0.45
+3:b:Porte de Bagnolet:499:430:5.31:0.46
+3:b:Gambetta:484:429:5.32:0.47
+3:b:Pere Lachaise:460:416:5.34:0.49
+3:b:Rue Saint-Maur:437:422:5.35:0.50
+3:b:Parmentier:421:427:5.36:0.51
+3:b:Republique:397:433:5.38:0.53
+3:b:Temple:384:427:5.39:0.54
+3:b:Arts et Metiers:373:417:5.40:0.55
+3:b:Reaumur Sebastopol:351:422:5.41:0.56
+3:b:Sentier:327:430:5.42:0.57
+3:b:Bourse:314:434:5.43:0.58
+3:b:Quatre Septembre:300:439:5.44:0.59
+3:b:Opera:284:444:5.45:1.00
+3:b:Havre Caumartin:268:465:5.47:1.02
+3:b:Saint-Lazare:258:477:5.48:1.03
+3:b:Europe:242:483:5.49:1.04
+3:b:Villiers:231:487:5.51:1.06
+3:b:Malesherbes:213:493:5.52:1.07
+3:b:Wagram:200:497:5.53:1.08
+3:b:Pereire:187:501:5.54:1.09
+3:b:Porte de Champerret:172:506:5.56:1.11
+3:b:Louise Michel:154:512:5.57:1.12
+3:b:Anatole France:138:517:5.58:1.13
+3:b:Pont de Levallois, Becon:125:521:6.00:1.15
+####3bis:a Gambetta Porte des Lilas
+3bis:a:Gambetta:484:429:5.32:1.11
+3bis:a:Pelleport:489:448:5.33:1.12
+3bis:a:Saint-Fargeau:494:460:5.34:1.13
+3bis:a:Porte des Lilas:498:474:5.36:1.15
+####3bis:b: Porte des Lilas Gambetta
+3bis:b:Porte des Lilas:498:474:5.27:1.04
+3bis:b:Saint-Fargeau:494:460:5.28:1.05
+3bis:b:Pelleport:489:448:5.29:1.06
+3bis:b:Gambetta:484:429:5.31:1.08
+####4:a:Porte de Clignancourt, Porte d'OrlÇans
+4:a:Porte de Clignancourt:350:583:5.29:0.44
+4:a:Simplon:350:568:5.30:0.45
+4:a:Marcadet Poissonniers:350:554:5.31:0.46
+4:a:Chateau Rouge:350:532:5.32:0.47
+4:a:Barbes Rochechouart:350:521:5.33:0.48
+4:a:Gare du Nord:364:510:5.33:0.50
+4:a:Gare de l'Est:367:484:5.34:0.51
+4:a:Chateau d'Eau:364:462:5.36:0.53
+4:a:Strasbourg Saint-Denis:359:447:5.37:0.54
+4:a:Reaumur Sebastopol:351:422:5.38:0.55
+4:a:Etienne Marcel:347:412:5.39:0.56
+4:a:Les Halles:337:404:5.41:0.57
+4:a:Chatelet:324:382:5.42:0.59
+4:a:Cite:317:366:5.43:1.00
+4:a:Saint-Michel:312:349:5.44:1.01
+4:a:Odeon:300:348:5.45:1.02
+4:a:Saint-Germain-des-Pres:284:352:5.47:1.04
+4:a:Saint-Sulpice:275:336:5.48:1.05
+4:a:Saint-Placide:272:324:5.49:1.06
+4:a:Montparnasse Bienvenue:267:306:5.50:1.07
+4:a:Vavin:282:300:5.52:1.08
+4:a:Raspail:292:289:5.53:1.10
+4:a:Denfert Rochereau:300:277:5.54:1.11
+4:a:Mouton-Duvernet:295:259:5.55:1.12
+4:a:Alesia:290:244:5.56:1.13
+4:a:Porte d'Orleans:285:232:5.59:1.15
+####4:b:Porte d'OrlÇans, Porte de Clignancourt
+4:b:Porte d'Orleans:285:232:5.30:0.45
+4:b:Alesia:290:244:5.31:0.47
+4:b:Mouton-Duvernet:295:259:5.32:0.48
+4:b:Denfert Rochereau:300:277:5.33:0.49
+4:b:Raspail:292:289:5.34:0.50
+4:b:Vavin:282:300:5.35:0.51
+4:b:Montparnasse Bienvenue:267:306:5.33:0.52
+4:b:Saint-Placide:272:324:5.34:0.53
+4:b:Saint-Sulpice:275:336:5.35:0.54
+4:b:Saint-Germain-des-Pres:284:352:5.37:0.56
+4:b:Odeon:300:348:5.38:0.57
+4:b:Saint-Michel:312:349:5.39:0.58
+4:b:Cite:317:366:5.40:0.59
+4:b:Chatelet:324:382:5.41:1.00
+4:b:Les Halles:337:404:5.42:1.01
+4:b:Etienne Marcel:347:412:5.44:1.03
+4:b:Reaumur Sebastopol:351:422:5.45:1.04
+4:b:Strasbourg Saint-Denis:359:447:5.46:1.05
+4:b:Chateau d'Eau:364:462:5.47:1.06
+4:b:Gare de l'Est:367:484:5.48:1.07
+4:b:Gare du Nord:364:510:5.50:1.08
+4:b:Barbes Rochechouart:350:521:5.51:1.10
+4:b:Chateau Rouge:350:532:5.52:1.11
+4:b:Marcadet Poissonniers:350:554:5.53:1.12
+4:b:Simplon:350:568:5.54:1.13
+4:b:Porte de Clignancourt:350:583:5.57:1.15
+####5:a:êglise de Pantin, Place d'Italie
+5:a:Bobigny, Pablo Picasso:522:593:5.30:0.39
+5:a:Bobigny-Pantin, Raymond Queneau:498:574:5.33:0.42
+5:a:Eglise de Pantin:484:563:5.31:0.44
+5:a:Hoche:468:550:5.32:0.45
+5:a:Porte de Pantin:454:538:5.34:0.47
+5:a:Ourcq:442:529:5.35:0.49
+5:a:Laumiere:430:519:5.37:0.50
+5:a:Jaures:416:509:5.38:0.51
+5:a:Stalingrad:409:518:5.39:0.52
+5:a:Gare du Nord:369:507:5.42:0.55
+5:a:Gare de l'Est:368:484:5.44:0.57
+5:a:Jacques Bonsergent:386:448:5.46:0.59
+5:a:Republique:398:434:5.47:1.01
+5:a:Oberkampf:417:409:5.49:1.02
+5:a:Richard Lenoir:412:390:5.51:1.04
+5:a:Breguet-Sabin:408:376:5.52:1.05
+5:a:Bastille:403:361:5.53:1.06
+5:a:Quai de la Rapee:393:328:5.55:1.08
+5:a:Gare d'Austerlitz:389:317:5.57:1.10
+5:a:Saint-Marcel:381:295:5.59:1.12
+5:a:Campo-Formio:376:278:6.00:1.13
+5:a:Place d'Italie:368:255:6.02:1.15
+####5:b:Place d'Italie, êglise de Pantin
+5:b:Place d'Italie:368:255:5.30:0.41
+5:b:Campo-Formio:376:278:5.31:0.42
+5:b:Saint-Marcel:381:295:5.32:0.43
+5:b:Gare d'Austerlitz:389:317:5.33:0.44
+5:b:Quai de la Rapee:393:328:5.35:0.46
+5:b:Bastille:403:361:5.37:0.48
+5:b:Breguet-Sabin:408:376:5.38:0.49
+5:b:Richard Lenoir:412:390:5.39:0.50
+5:b:Oberkampf:417:409:5.41:0.52
+5:b:Republique:398:434:5.42:0.53
+5:b:Jacques Bonsergent:386:448:5.44:0.55
+5:b:Gare de l'Est:368:484:5.45:0.57
+5:b:Gare du Nord:369:507:5.47:0.58
+5:b:Stalingrad:409:518:5.49:1.01
+5:b:Jaures:416:509:5.51:1.02
+5:b:Laumiere:430:519:5.52:1.03
+5:b:Ourcq:442:529:5.53:1.04
+5:b:Porte de Pantin:454:538:5.55:1.06
+5:b:Hoche:468:550:5.56:1.07
+5:b:Eglise de Pantin:484:563:5.58:1.09
+5:a:Bobigny-Pantin, Raymond Queneau:498:574:6.00:1.11
+5:a:Bobigny, Pablo Picasso:522:593:6.04:1.15
+####6:a:êtoile, Nation
+6:a:Charles de Gaulle, Etoile:170:435:5.30:0.41
+6:a:Kleber:166:422:5.31:0.41
+6:a:Boissiere:160:406:5.32:0.44
+6:a:Trocadero:157:397:5.33:0.45
+6:a:Passy:157:373:5.34:0.46
+6:a:Bir-Hakeim:172:353:5.35:0.47
+6:a:Dupleix:180:344:5.37:0.48
+6:a:La Motte Picquet, Grenelle:204:332:5.38:0.49
+6:a:Cambronne:217:328:5.39:0.50
+6:a:Sevres Lecourbe:232:321:5.40:0.52
+6:a:Pasteur:243:307:5.41:0.53
+6:a:Montparnasse Bienvenue:263:300:5.42:0.54
+6:a:Edgar Quinet:276:295:5.44:0.56
+6:a:Raspail:291:288:5.45:0.57
+6:a:Denfert Rochereau:302:276:5.46:0.58
+6:a:Saint-Jacques:321:269:5.47:0.59
+6:a:Glaciere:337:265:5.49:1.00
+6:a:Corvisart:355:259:5.50:1.02
+6:a:Place d'Italie:368:254:5.51:1.03
+6:a:Nationale:389:258:5.53:1.05
+6:a:Chevaleret:404:269:5.54:1.06
+6:a:Quai de la Gare:420:282:5.55:1.07
+6:a:Bercy:437:296:5.56:1.08
+6:a:Dugommier:448:304:5.58:1.10:
+6:a:Daumesnil:461:316:5.59:1.11
+6:a:Bel Air:471:324:6.00:1.12
+6:a:Picpus:473:336:6.01:1.13
+6:a:Nation:463:349:6.04:1.15
+####6:b:Nation, êtoile
+6:b:Nation:463:349:5.30:0.42
+6:b:Picpus:473:336:5.31:0.43:
+6:b:Bel Air:471:324:5.32:0.44:
+6:b:Daumesnil:461:316:5.33:0.45:
+6:b:Dugommier:448:304:5.34:0.46:
+6:b:Bercy:437:296:5.35:0.47
+6:b:Quai de la Gare:420:282:5.36:0.49
+6:b:Chevaleret:404:269:5.37:0.50
+6:b:Nationale:289:258:5.38:0.51
+6:b:Place d'Italie:368:254:5.30:0.52
+6:b:Corvisart:355:259:5.31:0.53
+6:b:Glaciere:337:265:5.32:0.55
+6:b:Saint-Jacques:321:269:5.33:0.56
+6:b:Denfert Rochereau:302:276:5.34:0.57:
+6:b:Raspail:291:288:5.36:0.58:
+6:b:Edgar Quinet:276:295:5.37:0.59
+6:b:Montparnasse Bienvenue:263:300:5.38:1.01
+6:b:Pasteur:243:307:5.39:1.02
+6:b:Sevres Lecourbe:232:321:5.41:1.03
+6:b:Cambronne:217:328:5.42:1.05
+6:b:La Motte Picquet, Grenelle:204:332:5.43:1.06
+6:b:Dupleix:180:344:5.44:1.07
+6:b:Bir-Hakeim:172:353:5.45:1.08
+6:b:Passy:157:373:5.46:1.09
+6:b:Trocadero:157:397:5.48:1.11
+6:b:Boissiere:160:406:5.49:1.12
+6:b:Kleber:166:422:5.50:1.13
+6:b:Charles de Gaulle, Etoile:170:435:5.52:1.15
+####7:a:Fort d'Aubervilliers, Mairie d'Ivry
+7:a:La Courneuve, 8 Mai 1945:441:619:5.29:0.28
+7:a:Fort d'Aubervilliers:438:608:5.30:0.29
+7:a:Aubervilliers-Pantin, Quatre Chemins:433:595:5.32:0.31
+7:a:Porte de la Villette:429:579:5.34:0.33
+7:a:Corentin-Cariou:422:562:5.36:0.35
+7:a:Crimee:419:550:5.37:0.36
+7:a:Riquet:414:534:5.38:0.37
+7:a:Stalingrad:408:517:5.39:0.38
+7:a:Louis Blanc:402:497:5.40:0.40
+7:a:Chateau Landon:384:484:5.42:0.41
+7:a:Gare de l'Est:367:484:5.43:0.42
+7:a:Poissonniere:347:484:5.45:0.44
+7:a:Cadet:322:484:5.46:0.45
+7:a:Le Peletier:301:484:5.47:0.47
+7:a:Chaussee d'Antin, La Fayette:284:472:5.48:0.48
+7:a:Opera:284:444:5.50:0.50
+7:a:Pyramides:284:413:5.52:0.51
+7:a:Palais Royal, Musee du Louvre:293:396:5.53:0.52
+7:a:Pont-Neuf:308:382:5.54:0.54
+7:a:Chatelet:322:378:5.56:0.55
+7:a:Pont-Marie:349:369:5.57:0.57
+7:a:Sully Morland:374:354:5.59:0.58
+7:a:Jussieu:367:324:6.00:1.00
+7:a:Place Monge:360:303:6.01:1.01
+7:a:Censier Daubenton:356:288:6.03:1.02
+7:a:Les Gobelins:353:272:6.04:1.03
+7:a:Place d'Italie:368:254:6.05:1.05
+7:a:Tolbiac:376:242:6.06:1.06
+7:a:Maison Blanche:386:232:6.08:1.07
+7:a:Porte d'Italie:394:223:6.09:1.08
+7:a:Porte de Choisy:405:232:6.10:1.10
+7:a:Porte d'Ivry:419:243:6.12:1.11
+7:a:Pierre Curie:430:234:6.13:1.12
+7:a:Mairie d'Ivry:439:223:6.16:1.15
+7:c:Maison Blanche:386:232:6.02:1.05
+7:c:le Kremlin-Bicetre:385:217:6.04:1.07
+7:c:Villejuif, Leo Lagrange:385:206:6.06:1.09
+7:c:Villejuif, P. Vaillant Couturier:385:195:6.08:1.11
+7:c:Villejuif, Louis Aragon:385:184:6.11:1.13
+####7:b:Mairie d'Ivry, Fort d'Aubervilliers
+7:d:Villejuif, Louis Aragon:385:184:5.28:0.27
+7:d:Villejuif, P. Vaillant Couturier:385:195:5.29:0.28
+7:d:Villejuif, Leo Lagrange:385:206:5.31:0.31
+7:d:Le Kremlin-Bicetre:385:217:5.33:0.32
+7:d:Maison Blanche:386:232:5.35:0.34
+7:b:Mairie d'Ivry:439:223:5.30:0.20
+7:b:Pierre Curie:430:234:5.31:0.22
+7:b:Porte d'Ivry:419:243:5.33:0.23
+7:b:Porte de Choisy:405:232:5.34:0.24
+7:b:Porte d'Italie:394:223:5.36:0.26
+7:b:Maison Blanche:386:232:5.37:0.27
+7:b:Tolbiac:376:242:5.38:0.28
+7:b:Place d'Italie:368:254:5.40:0.30
+7:b:Les Gobelins:353:272:5.41:0.31
+7:b:Censier Daubenton:356:288:5.43:0.33
+7:b:Place Monge:360:303:5.44:0.34
+7:b:Jussieu:367:324:5.45:0.35
+7:b:Sully Morland:374:354:5.47:0.37
+7:b:Pont-Marie:349:369:5.48:0.38
+7:b:Chatelet:322:378:5.49:0.39
+7:b:Pont-Neuf:308:382:5.51:0.41
+7:b:Palais Royal, Musee du Louvre:293:396:5.53:0.42
+7:b:Pyramides:284:413:5.54:0.44
+7:b:Opera:284:444:5.55:0.45
+7:b:Chaussee d'Antin, La Fayette:284:472:5.57:0.46
+7:b:Le Peletier:301:484:5.58:0.48
+7:b:Cadet:322:484:5.59:0.49
+7:b:Poissonniere:347:484:6.00:0.50
+7:b:Gare de l'Est:367:484:6.02:0.51
+7:b:Chateau Landon:384:484:6.03:0.53
+7:b:Louis Blanc:402:497:6.05:0.54
+7:b:Stalingrad:408:517:6.06:0.55
+7:b:Riquet:414:534:6.07:0.57
+7:b:Crimee:419:550:6.08:0.58
+7:b:Corentin-Cariou:422:562:6.10:0.59
+7:b:Porte de la Villette:429:579:6.11:1.00
+7:b:Aubervilliers-Pantin, Quatre Chemins:433:595:6.13:1.02
+7:b:Fort d'Aubervilliers:438:608:6.15:1.04
+7:b:La Courneuve, 8 Mai 1945:441:619:6.18:1.07
+####7bis:a:Louis Blanc, PrÇs saint Gervais
+7bis:a:Louis Blanc:402:497:5.44:1.06
+7bis:a:Jaures:416:508:5.45:1.07
+7bis:a:Bolivar:426:498:5.46:1.08
+7bis:a:Buttes Chaumont:435:492:5.47:1.10
+7bis:a:Botzaris:457:492:5.48:1.11
+7bis:a:Place des Fetes:467:482:5.50:1.12
+7bis:a:Pre-Saint-Gervais:484:496:5.53:1.15
+####7bis:b:Pre-Saint-Gervais, Louis Blanc
+7bis:b:Pre-Saint-Gervais:484:496:5.31:0.54
+7bis:b:Danube:468:501:5.31:0.54
+7bis:b:Botzaris:457:492:5.33:0.56
+7bis:b:Buttes Chaumont:435:492:5.34:0.57
+7bis:b:Bolivar:426:498:5.35:0.58
+7bis:b:Jaures:416:508:5.36:0.59
+7bis:b:Louis Blanc:402:497:5.39:1.02
+####8: Balard, Creteil
+8:a:Place Balard:162:271:5.30:0.23
+8:a:Lourmel:173:279:5.31:0.24
+8:a:Boucicaut:185:289:5.32:0.25
+8:a:Felix Faure:192:300:5.33:0.26
+8:a:Commerce:196:311:5.34:0.28
+8:a:La Motte Picquet, Grenelle:203:333:5.35:0.29
+8:a:Ecole Militaire:209:350:5.37:0.31
+8:a:La Tour-Maubourg:220:373:5.38:0.32
+8:a:Invalides:237:387:5.39:0.33
+8:a:Concorde:256:407:5.41:0.35
+8:a:Madeleine:257:423:5.43:0.36
+8:a:Opera:284:444:5.44:0.38
+8:a:Richelieu Drouot:307:462:5.45:0.39
+8:a:Rue Montmartre, Grands Boulevards:324:457:5.47:0.40
+8:a:Bonne Nouvelle:339:452:5.48:0.41
+8:a:Strasbourg Saint-Denis:359:445:5.49:0.43
+8:a:Republique:395:432:5.36:0.44
+8:a:Filles du Calvaire:397:413:5.37:0.46
+8:a:Saint-Sebastien-Froissart:397:394:5.38:0.47
+8:a:Chemin Vert:397:383:5.39:0.48
+8:a:Bastille:403:362:5.40:0.49
+8:a:Ledru Rollin:415:359:5.41:0.50
+8:a:Faidherbe-Chaligny:432:352:5.43:0.52
+8:a:Reuilly Diderot:442:339:5.44:0.53
+8:a:Montgallet:452:328:5.45:0.54
+8:a:Daumesnil:461:316:5.46:0.56
+8:a:Michel Bizot:468:308:5.48:0.57
+8:a:Porte Doree:478:291:5.49:0.58
+8:a:Porte de Charenton:470:285:5.51:1.00
+8:a:Liberte:475:274:5.53:1.02
+8:a:Charenton-Ecoles:483:264:5.54:1.03
+8:a:Ecole Veterinaire de Maisons-Alfort:495:250:5.56:1.05
+8:a:Maisons-Alfort, Stade:503:240:5.58:1.07
+8:a:Maisons-Alfort les Juilliottes:509:232:6.00:1.09
+8:a:Creteil-l'Echat, Hopital Henri Mondor:516:224:6.02:1.11
+8:a:Creteil-Universite:522:216:6.03:1.12
+8:a:Creteil-Prefecture:529:207:6.06:1.15
+####8:b:Creteil, Balard
+8:b:Creteil-Prefecture:529:207:5.30:0.23
+8:b:Creteil-Universite:522:216:5.31:0.25
+8:b:Creteil-l'Echat, Hopital Henri Mondor:516:224:5.33:0.26
+8:b:Maisons-Alfort les Juilliottes:509:232:5.28:0.28
+8:b:Maisons-Alfort, Stade:503:240:5.29:0.30
+8:b:Ecole Veterinaire de Maisons-Alfort:495:250:5.31:0.32
+8:b:Charenton-Ecoles:483:264:5.33:0.34
+8:b:Liberte:475:274:5.34:0.35
+8:b:Porte de Charenton:470:285:5.36:0.37
+8:b:Porte Doree:478:291:5.37:0.38
+8:b:Michel Bizot:468:308:5.39:0.40
+8:b:Daumesnil:461:316:5.40:0.41
+8:b:Montgallet:452:328:5.41:0.42
+8:b:Reuilly Diderot:442:339:5.43:0.44
+8:b:Faidherbe-Chaligny:432:352:5.44:0.45
+8:b:Ledru Rollin:415:359:5.46:0.46
+8:b:Bastille:403:362:5.47:0.48
+8:b:Chemin Vert:397:383:5.48:0.49
+8:b:Saint-Sebastien-Froissart:397:394:5.49:0.50
+8:b:Filles du Calvaire:397:413:5.50:0.51
+8:b:Republique:395:432:5.35:0.52
+8:b:Strasbourg Saint-Denis:359:445:5.36:0.54
+8:b:Bonne Nouvelle:339:452:5.37:0.55
+8:b:Rue Montmartre, Grands Boulevards:324:457:5.38:0.56
+8:b:Richelieu Drouot:307:462:5.40:0.58
+8:b:Opera:284:444:5.41:0.59
+8:b:Madeleine:257:423:5.42:1.01
+8:b:Concorde:256:407:5.44:1.02
+8:b:Invalides:237:387:5.45:1.04
+8:b:La Tour-Maubourg:220:373:5.47:1.05
+8:b:Ecole Militaire:209:350:5.48:1.06
+8:b:La Motte Picquet, Grenelle:203:333:5.50:1.08
+8:b:Commerce:196:311:5.52:1.10
+8:b:Felix Faure:192:300:5.53:1.11
+8:b:Boucicaut:185:289:5.54:1.12
+8:b:Lourmel:173:279:5.55:1.13
+8:b:Place Balard:162:271:5.57:1.15
+####9:a:Pont de Sävres, Mairie de Montreuil
+9:a:Pont de Sevres:66:262:5.30:0.25
+9:a:Billancourt:77:270:5.31:0.27:
+9:a:Marcel Sembat:90:280:5.32:0.28:
+9:a:Porte de Saint-Cloud:101:290:5.30:0.30:
+9:a:Exelmans:112:301:5.31:0.32:
+9:a:Michel Ange Molitor:119:324:5.32:0.33:
+9:a:Michel Ange Auteuil:123:334:5.33:0.34:
+9:a:Jasmin:129:352:5.34:0.35:
+9:a:Ranelagh:133:366:5.35:0.36:
+9:a:La Muette:139:384:5.36:0.37:
+9:a:Rue de la Pompe:144:397:5.38:0.39:
+9:a:Trocadero:157:397:5.40:0.41:
+9:a:Iena:175:397:5.41:0.42:
+9:a:Alma Marceau:193:404:5.42:0.43:
+9:a:Franklin D. Roosevelt:214:421:5.44:0.45:
+9:a:Saint-Philippe du Roule:225:430:5.45:0.46:
+9:a:Miromesnil:237:440:5.46:0.47:
+9:a:Saint-Augustin:254:452:5.48:0.49:
+9:a:Havre Caumartin:268:465:5.49:0.50:
+9:a:Chaussee d'Antin, La Fayette:284:472:5.50:0.51:
+9:a:Richelieu Drouot:307:464:5.51:0.52:
+9:a:Rue Montmartre, Grands Boulevards:325:459:5.52:0.53:
+9:a:Bonne Nouvelle:340:454:5.53:0.54:
+9:a:Strasbourg Saint-Denis:359:447:5.55:0.56:
+9:a:Republique:399:435:5.44:0.57:
+9:a:Oberkampf:419:411:5.45:0.59:
+9:a:Saint-Ambroise:428:401:5.46:1.00:
+9:a:Voltaire:435:393:5.47:1.01:
+9:a:Charonne:442:383:5.48:1.03:
+9:a:Rue des Boulets:449:373:5.50:1.04:
+9:a:Nation:466:357:5.51:1.05:
+9:a:Buzenval:477:365:5.53:1.07:
+9:a:Maraichers:490:375:5.54:1.08:
+9:a:Porte de Montreuil:498:382:5.45:1.09:
+9:a:Robespierre:509:390:5.46:1.11:
+9:a:Croix de Chavaux:523:402:5.48:1.13:
+9:a:Mairie de Montreuil:537:412:5.51:1.15:
+####9:b:Mairie de Montreuil, Pont de Sävres
+9:b:Mairie de Montreuil:537:412:5.24:0.24:
+9:b:Croix de Chavaux:523:402:5.26:0.25:
+9:b:Robespierre:509:390:5.27:0.27:
+9:b:Porte de Montreuil:498:382:5.25:0.29:
+9:b:Maraichers:490:375:5.26:0.30:
+9:b:Buzenval:477:365:5.27:0.31:
+9:b:Nation:466:357:5.29:0.32:
+9:b:Rue des Boulets:449:373:5.31:0.34:
+9:b:Charonne:442:383:5.32:0.35:
+9:b:Voltaire:435:393:5.33:0.36:
+9:b:Saint-Ambroise:428:401:5.34:0.38:
+9:b:Oberkampf:419:411:5.36:0.39:
+9:b:Rpublique:399:435:5.29:0.40:
+9:b:Strasbourg Saint-Denis:359:447:5.30:0.42:
+9:b:Bonne Nouvelle:340:454:5.31:0.44:
+9:b:Rue Montmartre, Grands Boulevards:325:459:5.32:0.45:
+9:b:Richelieu Drouot:307:464:5.34:0.46:
+9:b:Chaussee d'Antin, La Fayette:284:472:5.35:0.47:
+9:b:Havre Caumartin:268:465:5.36:0.49:
+9:b:Saint-Augustin:254:452:5.38:0.50:
+9:b:Miromesnil:237:440:5.39:0.52:
+9:b:Saint-Philippe du Roule:225:430:5.41:0.53:
+9:b:Franklin D. Roosevelt:214:421:5.42:0.54:
+9:b:Alma Marceau:193:404:5.44:0.56:
+9:b:Iena:175:397:5.45:0.58:
+9:b:Trocadero:157:397:5.47:0.59:
+9:b:Rue de la Pompe:144:397:5.48:1.00:
+9:b:La Muette:139:384:5.50:1.02:
+9:b:Ranelagh:133:366:5.51:1.04:
+9:b:Jasmin:129:352:5.52:1.05:
+9:b:Michel Ange Auteuil:123:334:5.54:1.06:
+9:b:Michel Ange Molitor:119:324:5.55:1.07:
+9:b:Exelmans:112:301:5.56:1.08:
+9:b:Porte de Saint-Cloud:101:290:5.45:1.09:
+9:b:Marcel Sembat:90:280:5.46:1.12:
+9:b:Billancourt:77:270:5.48:1.13:
+9:b:Pont de Sevres:66:262:5.50:1.15:
+####10:a:Boulogne, Auteuil, Austerlitz
+10:a:Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danude:67:307:5.35:0.47:
+10:a:Boulogne, Jean Jaures:79:316:5.36:0.49:
+10:a:Michel Ange Molitor:119:324:5.31:0.51:
+10:a:Chardon Lagache:134:318:5.32:0.52:
+10:a:Mirabeau:141:321:5.33:0.54:
+10:a:Javel:158:326:5.35:0.55:
+10:a:Charles Michels:178:326:5.36:0.56:
+10:a:Avenue Emile Zola:194:326:5.37:0.58:
+10:a:La Motte Picquet, Grenelle:205:332:5.39:0.59:
+10:a:Segur:217:336:5.40:1.01:
+10:a:Duroc:238:336:5.42:1.02:
+10:a:Vaneau:248:343:5.43:1.04:
+10:a:Sevres Babylone:260:347:5.45:1.05:
+10:a:Mabillon:288:347:5.46:1.06:
+10:a:Odeon:300:347:5.47:1.08:
+10:a:Cluny, La Sorbonne:319:340:5.49:1.09:
+10:a:Maubert Mutualite:335:334:5.50:1.10:
+10:a:Cardinal Lemoine:350:329:5.51:1.11:
+10:a:Jussieu:367:324:5.52:1.12:
+10:a:Gare d'Austerlitz:389:317:5.55:1.15:
+####10:b:Austerlitz, Auteuil, Boulogne
+10:b:Gare d'Austerlitz:389:317:5.30:0.29:
+10:b:Jussieu:367:324:5.31:0.31:
+10:b:Cardinal Lemoine:350:329:5.33:0.32:
+10:b:Maubert Mutualite:335:334:5.34:0.33:
+10:b:Cluny, La Sorbonne:319:340:5.35:0.34:
+10:b:Odeon:300:347:5.36:0.35:
+10:b:Mabillon:288:347:5.37:0.36:
+10:b:Sevres Babylone:260:347:5.38:0.38:
+10:b:Vaneau:248:343:5.40:0.39:
+10:b:Duroc:238:336:5.41:0.40:
+10:b:Segur:217:336:5.43:0.42:
+10:b:La Motte Picquet, Grenelle:205:332:5.44:0.44:
+10:b:Avenue Emile Zola:194:326:5.46:0.45:
+10:b:Charles Michels:178:326:5.47:0.47:
+10:b:Javel:158:326:5.49:0.48:
+10:b:Eglise d'Auteuil:137:330:5.50:0.50:
+10:b:Michel Ange Auteuil:123:334:5.52:0.51:
+10:b:Porte d'Auteuil:105:336:5.53:0.52:
+10:b:Boulogne, Jean Jaures:79:316:5.56:0.55:
+10:b:Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danude:67:307:5.59:0.58:
+####11:a:Mairie des Lilas, ChÉtelet
+11:a:Mairie des Lilas:518:474:5.30:1.00:
+11:a:Porte des Lilas:498:474:5.31:1.01:
+11:a:Telegraphe:476:480:5.32:1.03:
+11:a:Place des Fetes:467:481:5.31:1.04:
+11:a:Jourdain:449:474:5.31:1.05:
+11:a:Pyrenees:439:466:5.32:1.06:
+11:a:Belleville:428:456:5.34:1.07:
+11:a:Goncourt:413:445:5.35:1.08:
+11:a:Republique:398:433:5.36:1.09:
+11:a:Arts et Metiers:374:414:5.38:1.11:
+11:a:Rambuteau:365:402:5.39:1.12:
+11:a:Hotel de Ville:356:375:5.40:1.13:
+11:a:Chatelet:324:383:5.42:1.15:
+####11:b:ChÉtelet, Mairie des Lilas
+11:b:Chatelet:324:383:5.30:0.54:
+11:b:Hotel de Ville:356:375:5.30:0.55:
+11:b:Rambuteau:365:402:5.31:0.56:
+11:b:Arts et Metiers:374:414:5.32:0.57:
+11:b:Republique:398:433:5.34:0.59:
+11:b:Goncourt:413:445:5.35:1.00:
+11:b:Belleville:428:456:5.36:1.01:
+11:b:Pyrenees:439:466:5.38:1.03:
+11:b:Jourdain:449:474:5.39:1.04:
+11:b:Place des Fetes:467:481:5.40:1.05:
+11:b:Telegraphe:476:480:5.41:1.06:
+11:b:Porte des Lilas:498:474:5.42:1.07:
+11:b:Mairie des Lilas:518:474:5.45:1.10:
+####12:a:Porte de la Chapelle, Mairie d'Issy
+12:a:Porte de la Chapelle:384:582:5.30:0.39:
+12:a:Marx Dormoy:376:557:5.31:0.40:
+12:a:Marcadet Poissonniers:350:554:5.32:0.42:
+12:a:Jules Joffrin:331:554:5.34:0.43:
+12:a:Lamarck Caulaincourt:314:553:5.35:0.45:
+12:a:Abbesses:308:536:5.36:0.46:
+12:a:Pigalle:303:521:5.37:0.47:
+12:a:Saint-Georges:300:511:5.39:0.48:
+12:a:Notre Dame de Lorette:289:502:5.40:0.50:
+12:a:Trinite d'Estienne d'Orves:280:495:5.41:0.51:
+12:a:Saint-Lazare:259:478:5.42:0.52:
+12:a:Madeleine:258:422:5.44:0.54:
+12:a:Concorde:258:406:5.45:0.55:
+12:a:Assemblee Nationale:258:382:5.47:0.57:
+12:a:Solferino:258:371:5.48:0.58:
+12:a:Rue du Bac:258:358:5.49:0.59:
+12:a:Sevres Babylone:260:347:5.50:1.00:
+12:a:Rennes:271:333:5.51:1.01:
+12:a:Notre-Dame-des-Champs:278:320:5.52:1.02
+12:a:Montparnasse Bienvenue:266:307:5.54:1.03:
+12:a:Falguiere:253:312:5.55:1.04:
+12:a:Pasteur:243:307:5.56:1.06:
+12:a:Volontaires:231:297:5.57:1.07:
+12:a:Vaugirard:217:285:5.59:1.08:
+12:a:Convention:202:273:6.00:1.09:
+12:a:Porte de Versailles:197:258:6.02:1.11:
+12:a:Corentin Celton:192:242:6.03:1.12:
+12:a:Mairie d'Issy:187:226:6.06:1.15:
+####12:b:Miries d'Issy, Porte de la Chapelle:
+12:b:Mairie d'Issy:187:226:5.30:0.39:
+12:b:Corentin Celton:192:242:5.31:0.40:
+12:b:Porte de Versailles:197:258:5.30:0.42:
+12:b:Convention:202:273:5.31:0.43:
+12:b:Vaugirard:217:285:5.32:0.44:
+12:b:Volontaires:231:297:5.33:0.46:
+12:b:Pasteur:243:307:5.34:0.47:
+12:b:Falguiere:253:312:5.36:0.48:
+12:b:Montparnasse Bienvenue:266:307:5.37:0.49:
+12:b:Notre-Dame-des-Champs:278:320:5.38:0.51:
+12:b:Rennes:271:333:5.39:0.52:
+12:b:Sevres Babylone:260:347:5.40:0.53:
+12:b:Rue du Bac:258:358:5.42:0.54:
+12:b:Solferino:258:371:5.43:0.55:
+12:b:Assemblee Nationale:258:382:5.44:0.56:
+12:b:Concorde:258:406:5.45:0.57:
+12:b:Madeleine:258:422:5.47:0.59:
+12:b:Saint-Lazare:259:478:5.49:1.01:
+12:b:Trinite d'Estienne d'Orves:280:495:5.50:1.02:
+12:b:Notre Dame de Lorette:289:502:5.51:1.03:
+12:b:Saint-Georges:300:511:5.52:1.04:
+12:b:Pigalle:303:521:5.54:1.06:
+12:b:Abbesses:308:536:5.55:1.07:
+12:b:Lamarck Caulaincourt:314:553:5.56:1.08:
+12:b:Jules Joffrin:331:554:5.58:1.10:
+12:b:Marcadet Poissonniers:350:554:5.59:1.11:
+12:b:Marx Dormoy:376:557:6.00:1.13:
+12:b:Porte de la Chapelle:384:582:6.03:1.15:
+####13:a:Asniäres, Clichy, Saint Denis, Porte de Vanves, Montrouge
+13:a:Saint-Denis-Universite:365:664:5.28:0.34
+13:a:Basilique de Saint-Denis:343:646:5.29:0.35
+13:a:Saint-Denis-Porte de Paris:332:637:5.31:0.37
+13:a:Carrefour Pleyel:314:622:5.33:0.40
+13:a:Mairie de Saint-Ouen:294:606:5.35:0.41
+13:a:Garibaldi:281:596:5.37:0.43
+13:a:Porte de Saint-Ouen:275:583:5.39:0.45
+13:a:Guy Moquet:267:560:5.40:0.46
+13:a:La Fourche:259:533:5.42:0.48
+13:a:Place de Clichy:259:508:5.43:0.49
+13:a:Liege:258:497:5.45:0.51
+13:a:Saint-Lazare:258:478:5.46:0.52
+13:a:Miromesnil:237:440:5.49:0.54
+13:a:Champs Elysees, Clemenceau:237:413:5.51:0.56
+13:a:Invalides:237:389:5.53:0.58
+13:a:Varenne:237:368:5.54:1.00
+13:a:Saint-Francois Xavier:237:359:5.55:1.01
+13:a:Duroc:238:336:5.56:1.02
+13:a:Montparnasse Bienvenue:263:300:5.58:1.04
+13:a:Gaite:259:282:6.00:1.05
+13:a:Pernety:254:269:6.01:1.07
+13:a:Plaisance:249:255:6.02:1.08
+13:a:Porte de Vanves:245:242:6.04:1.10
+13:a:Malakoff-Plateau de Vanves:239:225:6.06:1.11
+13:a:Malakoff-Rue Etienne Dolet:236:212:6.07:1.13
+13:a:Chatillon-Montrouge:229:193:6.10:1.15
+####13:b:Montrouge, Porte de Vanves, Saint Denis, Clichy, Asniäres
+13:b:Chatillon-Montrouge:229:193:5.30:0.36
+13:b:Malakoff-Rue Etienne Dolet:236:212:5.31:0.37
+13:b:Malakoff-Plateau de Vanves:239:225:5.33:0.39
+13:b:Porte de Vanves:245:242:5.34:0.41
+13:b:Plaisance:249:255:5.35:0.42
+13:b:Pernety:254:269:5.37:0.43
+13:b:Gaite:259:282:5.38:0.45
+13:b:Montparnasse Bienvenue:263:300:5.39:0.46
+13:b:Duroc:238:336:5.41:0.48
+13:b:Saint-Francois Xavier:237:359:5.42:0.49
+13:b:Varenne:237:368:5.44:0.50
+13:b:Invalides:237:389:5.37:0.51
+13:b:Champs Elysees, Clemenceau:237:413:5.38:0.53
+13:b:Miromesnil:237:440:5.40:0.55
+13:b:Saint-Lazare:258:478:5.42:0.56
+13:b:Liege:258:497:5.43:0.58
+13:b:Place de Clichy:259:508:5.44:0.59
+13:b:La Fourche:259:533:5.45:1.00
+13:b:Guy Moquet:267:560:5.47:1.02
+13:b:Porte de Saint-Ouen:275:583:5.48:1.03
+13:b:Garibaldi:281:596:5.50:1.05
+13:b:Mairie de Saint-Ouen:294:606:5.52:1.07
+13:b:Carrefour Pleyel:314:622:5.54:1.09
+13:b:Saint-Denis-Porte de Paris:332:637:5.56:1.11
+13:b:Basilique de Saint-Denis:343:646:5.58:1.12
+13:b:Saint-Denis-Universite:365:664:6.01:1.15
+####13bis:a:Asniäres, Clichy, Saint Denis, Porte de Vanves, Montrouge
+13bis:c:Gabriel Peri, Asnieres-Gennevilliers:198:607:5.30:0.38
+13bis:c:Mairie de Clichy:215:585:5.32:0.41
+13bis:c:Porte de Clichy:238:558:5.34:0.43
+13bis:c:Brochant:249:544:5.36:0.44
+13bis:c:La Fourche:259:533:5.37:0.46
+####13bis:a:Asniäres, Clichy, Saint Denis, Porte de Vanves, Montrouge
+13bis:d:La Fourche:259:533:5.49:1.06
+13bis:d:Brochant:249:544:5.51:1.08
+13bis:d:Porte de Clichy:238:558:5.53:1.10
+13bis:d:Mairie de Clichy:215:585:5.55:1.12
+13bis:d:Gabriel Peri, Asnieres-Gennevilliers:198:607:5.58:1.15
+####14:a:Madeleine, Bibliotheque Franáois Mitterand
+14:a:Madeleine:258:422:5.30:1.05
+14:a:Pyramides:284:413:5.32:1.07
+14:a:Chatelet:323:380:5.34:1.09
+14:a:Gare de Lyon:418:321:5.36:1.11
+14:a:Bercy:437:296:5.38:1.13
+14:a:Cour Saint-Emilion:439:281:5.40:1.15
+14:a:Bibliotheque Francois Mitterand:424:268:5.42:1.17
+####14:b:Bibliotheque Franáois Mitterand, Madeleine
+14:b:Bibliotheque Francois Mitterand:424:268:5.30:1.05
+14:b:Cour Saint-Emilion:439:281:5.32:1.07
+14:b:Bercy:437:296:5.34:1.09
+14:b:Gare de Lyon:418:321:5.36:1.11
+14:b:Chatelet:323:380:5.38:1.13
+14:b:Pyramides:284:413:5.40:1.15
+14:b:Madeleine:258:422:5.42:1.17

@@ -1,5 +1,5 @@
 
-##Itineraire du metro parisien en Langage C utilisant l'algorithme de djikstra pour rechercher le chemin optimale entre la station de départ et la station d'arrivée.
+## Itineraire du metro parisien en Langage C utilisant l'algorithme de djikstra pour rechercher le chemin optimale entre la station de départ et la station d'arrivée.
 
 
 ***************************************************************************

@@ -1,9 +1,9 @@
 
-## Itineraire du metro parisien en Langage C utilisant l'algorithme de djikstra pour rechercher le chemin optimale entre la station de départ et la station d'arrivée.
+## Itineraire de metro en Langage C utilisant l'algorithme de djikstra pour rechercher le chemin optimale entre la station de départ et la station d'arrivée.
 
 
 ***************************************************************************
-* Projet Langage C Telecom 1, KONATE Moussa et GUEYE Serigne Abdou Khadre *
+* Projet Langage C Telecom 1, **KONATE Moussa** et **GUEYE Serigne Abdou Khadre** 
 ***************************************************************************
 
 
@@ -30,9 +30,9 @@ On a réussi à faire pratiquement tout ce qui était demandé dans le cahier de
 ***************************************************************************************************************************
 4 - Utilisation :
  
-- Compilation : gcc -Wall ItineraireMetro.c -o ItineraireMetro.exe
+- Compilation : **gcc -Wall ItineraireMetro.c -o ItineraireMetro.exe**
 
-- Execution   : ItineraireMetro.exe pathFinder metro_modifiee.csv
+- Execution   : **ItineraireMetro.exe pathFinder metro_modifiee.csv**
 
 Pour l'éxecution, il faut s'assurer que le repertoire dans lequel se trouve l'exécutable contient bien le fichier metro_modifiee.csv
 
